@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Esta es la versión B
+=======
 Esta es la versión CCCgi hola 
+>>>>>>> master
